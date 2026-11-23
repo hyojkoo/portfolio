@@ -1,0 +1,6 @@
+{
+  "name": "구효정 포트폴리오 | Hyojeong Koo",
+  "description": "고려대학교 언어학과·경영학 구효정의 개인 포트폴리오 및 2025–2026 석탑대동제 Neo4j 지식그래프 데이터 탐색기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
